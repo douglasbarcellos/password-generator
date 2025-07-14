@@ -1,4 +1,3 @@
-# password-generator
-Password Generator
+# Password Generator
 
 JavaScript / HTML5 / CSS3
